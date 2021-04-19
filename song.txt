@@ -10,3 +10,4 @@ To hide these tears I hope you'll never see
 
 feature
 test commit №1
+add second commit for merge 
